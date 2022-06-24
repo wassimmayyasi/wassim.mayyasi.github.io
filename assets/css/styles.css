@@ -955,6 +955,16 @@ img {
     gap: .5rem;
   }
 
+  .contact__container {
+    grid-template-columns: none;
+    justify-content: center;
+    width: auto;
+  }
+
+  .contact__content {
+    padding-right: 3.5rem;
+  }
+
   .experiences__container {
     grid-template-columns: none;
     justify-content: center;
