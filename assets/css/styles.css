@@ -468,11 +468,11 @@ img {
 }
 
 .skills__html {
-  width: 85%;
+  width: 90%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 90%;
 }
 
 .skills__proto {
@@ -480,14 +480,22 @@ img {
 }
 
 .skills__js {
-  width: 70%;
+  width: 80%;
+}
+
+.skills__react {
+  width: 85%;
 }
 
 .skills__flutter {
-  width: 70%;
+  width: 65%;
 }
 
 .skills__java {
+  width: 80%;
+}
+
+.skills__django {
   width: 80%;
 }
 
@@ -500,19 +508,11 @@ img {
 }
 
 .skills__python {
-  width: 70%;
-}
-
-.skills__mysql {
   width: 75%;
 }
 
-.skills__r {
-  width: 60%;
-}
-
-.skills__matlab {
-  width: 60%;
+.skills__psql {
+  width: 85%;
 }
 
 .skills__office {
@@ -520,19 +520,15 @@ img {
 }
 
 .skills__git {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__postman {
-  width: 75%;
-}
-
-.skills__qase {
-  width: 70%;
+  width: 80%;
 }
 
 .skills__jira {
-  width: 70%;
+  width: 85%;
 }
 
 .skills__close .skills__list {
@@ -871,7 +867,8 @@ img {
   color: #FFF;
 }
 
-.footer__link:visited {
+a.footer__link:visited,
+a.footer__link {
   color: #FFF;
 }
 
